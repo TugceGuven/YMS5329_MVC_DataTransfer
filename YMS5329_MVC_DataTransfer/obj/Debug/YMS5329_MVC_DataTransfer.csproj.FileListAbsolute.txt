@@ -1,0 +1,66 @@
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\roslyn\csc.exe
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\roslyn\System.Collections.Immutable.dll
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\roslyn\vbc.exe
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\roslyn\VBCSCompiler.exe
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\roslyn\VBCSCompiler.exe.config
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\YMS5329_MVC_DataTransfer.dll.config
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\YMS5329_MVC_DataTransfer.dll
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\YMS5329_MVC_DataTransfer.pdb
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\Microsoft.Web.Infrastructure.dll
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\System.Web.Helpers.dll
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\System.Web.Mvc.dll
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\System.Web.Razor.dll
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\System.Web.Webpages.Deployment.dll
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\System.Web.Webpages.dll
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\System.Web.Webpages.Razor.dll
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\System.Web.Razor.xml
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\System.Web.Webpages.xml
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\System.Web.Webpages.Deployment.xml
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\System.Web.Webpages.Razor.xml
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\System.Web.Helpers.xml
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\System.Web.Mvc.xml
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\obj\Debug\YMS5329_MVC_DataTransfer.csprojResolveAssemblyReference.cache
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\obj\Debug\YMS5329_MVC_DataTransfer.dll
+D:\Bilge Adam Projeler\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\obj\Debug\YMS5329_MVC_DataTransfer.pdb
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\roslyn\csc.exe
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\roslyn\vbc.exe
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\roslyn\VBCSCompiler.exe
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\YMS5329_MVC_DataTransfer.dll.config
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\YMS5329_MVC_DataTransfer.dll
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\YMS5329_MVC_DataTransfer.pdb
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\System.Web.Helpers.dll
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\System.Web.Mvc.dll
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\System.Web.Razor.dll
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\System.Web.Webpages.Deployment.dll
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\System.Web.Webpages.dll
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\System.Web.Webpages.Razor.dll
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\System.Web.Razor.xml
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\System.Web.Webpages.xml
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\System.Web.Webpages.Deployment.xml
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\System.Web.Webpages.Razor.xml
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\System.Web.Helpers.xml
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\bin\System.Web.Mvc.xml
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\obj\Debug\YMS5329_MVC_DataTransfer.csprojResolveAssemblyReference.cache
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\obj\Debug\YMS5329_MVC_DataTransfer.dll
+C:\Users\cn_og\Dropbox\YMS5329\MVC\YMS5329_MVC_DataTransfer\YMS5329_MVC_DataTransfer\obj\Debug\YMS5329_MVC_DataTransfer.pdb
